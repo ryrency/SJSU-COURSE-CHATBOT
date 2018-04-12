@@ -1,0 +1,23 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | course | class;
+
+<location> =  location | physical location | room_no | room number | room no | building | whereabout | classroom;
+
+<of> = of ;
+<what> = what | what is | what's;
+<where> = where | where is | where's;
+
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> =  [<what>] <course> <location>;
+
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];

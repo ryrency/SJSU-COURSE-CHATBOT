@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | module | course  | class ;
+
+<topic> = topic | agenda | schedule | topic name | plan ;
+
+<week> = week | this week | next week | coming week | next class;
+
+<of> = of | for ;
+
+public <command> = [<week>] [<course>] <topic> ;
+
+public <command> = [<course>] <topic> [<of> <week>];

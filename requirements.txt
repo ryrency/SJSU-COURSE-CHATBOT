@@ -1,0 +1,7 @@
+sly
+pymysql
+slackclient
+numpy
+scipy
+scikit-learn
+pattern

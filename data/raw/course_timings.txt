@@ -1,0 +1,684 @@
+program timing
+program hour
+program time
+program start time
+program end time
+program start
+program end
+program day
+program day of week
+course timing
+course hour
+course time
+course start time
+course end time
+course start
+course end
+course day
+course day of week
+class timing
+class hour
+class time
+class start time
+class end time
+class start
+class end
+class day
+class day of week
+what program timing
+what program hour
+what program time
+what program start time
+what program end time
+what program start
+what program end
+what program day
+what program day of week
+what course timing
+what course hour
+what course time
+what course start time
+what course end time
+what course start
+what course end
+what course day
+what course day of week
+what class timing
+what class hour
+what class time
+what class start time
+what class end time
+what class start
+what class end
+what class day
+what class day of week
+what's program timing
+what's program hour
+what's program time
+what's program start time
+what's program end time
+what's program start
+what's program end
+what's program day
+what's program day of week
+what's course timing
+what's course hour
+what's course time
+what's course start time
+what's course end time
+what's course start
+what's course end
+what's course day
+what's course day of week
+what's class timing
+what's class hour
+what's class time
+what's class start time
+what's class end time
+what's class start
+what's class end
+what's class day
+what's class day of week
+what is program timing
+what is program hour
+what is program time
+what is program start time
+what is program end time
+what is program start
+what is program end
+what is program day
+what is program day of week
+what is course timing
+what is course hour
+what is course time
+what is course start time
+what is course end time
+what is course start
+what is course end
+what is course day
+what is course day of week
+what is class timing
+what is class hour
+what is class time
+what is class start time
+what is class end time
+what is class start
+what is class end
+what is class day
+what is class day of week
+what are program timing
+what are program hour
+what are program time
+what are program start time
+what are program end time
+what are program start
+what are program end
+what are program day
+what are program day of week
+what are course timing
+what are course hour
+what are course time
+what are course start time
+what are course end time
+what are course start
+what are course end
+what are course day
+what are course day of week
+what are class timing
+what are class hour
+what are class time
+what are class start time
+what are class end time
+what are class start
+what are class end
+what are class day
+what are class day of week
+when program timing
+when program hour
+when program time
+when program start time
+when program end time
+when program start
+when program end
+when program day
+when program day of week
+when course timing
+when course hour
+when course time
+when course start time
+when course end time
+when course start
+when course end
+when course day
+when course day of week
+when class timing
+when class hour
+when class time
+when class start time
+when class end time
+when class start
+when class end
+when class day
+when class day of week
+when is program timing
+when is program hour
+when is program time
+when is program start time
+when is program end time
+when is program start
+when is program end
+when is program day
+when is program day of week
+when is course timing
+when is course hour
+when is course time
+when is course start time
+when is course end time
+when is course start
+when is course end
+when is course day
+when is course day of week
+when is class timing
+when is class hour
+when is class time
+when is class start time
+when is class end time
+when is class start
+when is class end
+when is class day
+when is class day of week
+when's program timing
+when's program hour
+when's program time
+when's program start time
+when's program end time
+when's program start
+when's program end
+when's program day
+when's program day of week
+when's course timing
+when's course hour
+when's course time
+when's course start time
+when's course end time
+when's course start
+when's course end
+when's course day
+when's course day of week
+when's class timing
+when's class hour
+when's class time
+when's class start time
+when's class end time
+when's class start
+when's class end
+when's class day
+when's class day of week
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class
+timing of program
+timing of course
+timing of class
+timing for program
+timing for course
+timing for class
+hour of program
+hour of course
+hour of class
+hour for program
+hour for course
+hour for class
+time of program
+time of course
+time of class
+time for program
+time for course
+time for class
+start time of program
+start time of course
+start time of class
+start time for program
+start time for course
+start time for class
+end time of program
+end time of course
+end time of class
+end time for program
+end time for course
+end time for class
+start of program
+start of course
+start of class
+start for program
+start for course
+start for class
+end of program
+end of course
+end of class
+end for program
+end for course
+end for class
+day of program
+day of course
+day of class
+day for program
+day for course
+day for class
+day of week of program
+day of week of course
+day of week of class
+day of week for program
+day of week for course
+day of week for class
+what timing of program
+what timing of course
+what timing of class
+what timing for program
+what timing for course
+what timing for class
+what hour of program
+what hour of course
+what hour of class
+what hour for program
+what hour for course
+what hour for class
+what time of program
+what time of course
+what time of class
+what time for program
+what time for course
+what time for class
+what start time of program
+what start time of course
+what start time of class
+what start time for program
+what start time for course
+what start time for class
+what end time of program
+what end time of course
+what end time of class
+what end time for program
+what end time for course
+what end time for class
+what start of program
+what start of course
+what start of class
+what start for program
+what start for course
+what start for class
+what end of program
+what end of course
+what end of class
+what end for program
+what end for course
+what end for class
+what day of program
+what day of course
+what day of class
+what day for program
+what day for course
+what day for class
+what day of week of program
+what day of week of course
+what day of week of class
+what day of week for program
+what day of week for course
+what day of week for class
+what's timing of program
+what's timing of course
+what's timing of class
+what's timing for program
+what's timing for course
+what's timing for class
+what's hour of program
+what's hour of course
+what's hour of class
+what's hour for program
+what's hour for course
+what's hour for class
+what's time of program
+what's time of course
+what's time of class
+what's time for program
+what's time for course
+what's time for class
+what's start time of program
+what's start time of course
+what's start time of class
+what's start time for program
+what's start time for course
+what's start time for class
+what's end time of program
+what's end time of course
+what's end time of class
+what's end time for program
+what's end time for course
+what's end time for class
+what's start of program
+what's start of course
+what's start of class
+what's start for program
+what's start for course
+what's start for class
+what's end of program
+what's end of course
+what's end of class
+what's end for program
+what's end for course
+what's end for class
+what's day of program
+what's day of course
+what's day of class
+what's day for program
+what's day for course
+what's day for class
+what's day of week of program
+what's day of week of course
+what's day of week of class
+what's day of week for program
+what's day of week for course
+what's day of week for class
+what is timing of program
+what is timing of course
+what is timing of class
+what is timing for program
+what is timing for course
+what is timing for class
+what is hour of program
+what is hour of course
+what is hour of class
+what is hour for program
+what is hour for course
+what is hour for class
+what is time of program
+what is time of course
+what is time of class
+what is time for program
+what is time for course
+what is time for class
+what is start time of program
+what is start time of course
+what is start time of class
+what is start time for program
+what is start time for course
+what is start time for class
+what is end time of program
+what is end time of course
+what is end time of class
+what is end time for program
+what is end time for course
+what is end time for class
+what is start of program
+what is start of course
+what is start of class
+what is start for program
+what is start for course
+what is start for class
+what is end of program
+what is end of course
+what is end of class
+what is end for program
+what is end for course
+what is end for class
+what is day of program
+what is day of course
+what is day of class
+what is day for program
+what is day for course
+what is day for class
+what is day of week of program
+what is day of week of course
+what is day of week of class
+what is day of week for program
+what is day of week for course
+what is day of week for class
+what are timing of program
+what are timing of course
+what are timing of class
+what are timing for program
+what are timing for course
+what are timing for class
+what are hour of program
+what are hour of course
+what are hour of class
+what are hour for program
+what are hour for course
+what are hour for class
+what are time of program
+what are time of course
+what are time of class
+what are time for program
+what are time for course
+what are time for class
+what are start time of program
+what are start time of course
+what are start time of class
+what are start time for program
+what are start time for course
+what are start time for class
+what are end time of program
+what are end time of course
+what are end time of class
+what are end time for program
+what are end time for course
+what are end time for class
+what are start of program
+what are start of course
+what are start of class
+what are start for program
+what are start for course
+what are start for class
+what are end of program
+what are end of course
+what are end of class
+what are end for program
+what are end for course
+what are end for class
+what are day of program
+what are day of course
+what are day of class
+what are day for program
+what are day for course
+what are day for class
+what are day of week of program
+what are day of week of course
+what are day of week of class
+what are day of week for program
+what are day of week for course
+what are day of week for class
+when timing of program
+when timing of course
+when timing of class
+when timing for program
+when timing for course
+when timing for class
+when hour of program
+when hour of course
+when hour of class
+when hour for program
+when hour for course
+when hour for class
+when time of program
+when time of course
+when time of class
+when time for program
+when time for course
+when time for class
+when start time of program
+when start time of course
+when start time of class
+when start time for program
+when start time for course
+when start time for class
+when end time of program
+when end time of course
+when end time of class
+when end time for program
+when end time for course
+when end time for class
+when start of program
+when start of course
+when start of class
+when start for program
+when start for course
+when start for class
+when end of program
+when end of course
+when end of class
+when end for program
+when end for course
+when end for class
+when day of program
+when day of course
+when day of class
+when day for program
+when day for course
+when day for class
+when day of week of program
+when day of week of course
+when day of week of class
+when day of week for program
+when day of week for course
+when day of week for class
+when is timing of program
+when is timing of course
+when is timing of class
+when is timing for program
+when is timing for course
+when is timing for class
+when is hour of program
+when is hour of course
+when is hour of class
+when is hour for program
+when is hour for course
+when is hour for class
+when is time of program
+when is time of course
+when is time of class
+when is time for program
+when is time for course
+when is time for class
+when is start time of program
+when is start time of course
+when is start time of class
+when is start time for program
+when is start time for course
+when is start time for class
+when is end time of program
+when is end time of course
+when is end time of class
+when is end time for program
+when is end time for course
+when is end time for class
+when is start of program
+when is start of course
+when is start of class
+when is start for program
+when is start for course
+when is start for class
+when is end of program
+when is end of course
+when is end of class
+when is end for program
+when is end for course
+when is end for class
+when is day of program
+when is day of course
+when is day of class
+when is day for program
+when is day for course
+when is day for class
+when is day of week of program
+when is day of week of course
+when is day of week of class
+when is day of week for program
+when is day of week for course
+when is day of week for class
+when's timing of program
+when's timing of course
+when's timing of class
+when's timing for program
+when's timing for course
+when's timing for class
+when's hour of program
+when's hour of course
+when's hour of class
+when's hour for program
+when's hour for course
+when's hour for class
+when's time of program
+when's time of course
+when's time of class
+when's time for program
+when's time for course
+when's time for class
+when's start time of program
+when's start time of course
+when's start time of class
+when's start time for program
+when's start time for course
+when's start time for class
+when's end time of program
+when's end time of course
+when's end time of class
+when's end time for program
+when's end time for course
+when's end time for class
+when's start of program
+when's start of course
+when's start of class
+when's start for program
+when's start for course
+when's start for class
+when's end of program
+when's end of course
+when's end of class
+when's end for program
+when's end for course
+when's end for class
+when's day of program
+when's day of course
+when's day of class
+when's day for program
+when's day for course
+when's day for class
+when's day of week of program
+when's day of week of course
+when's day of week of class
+when's day of week for program
+when's day of week for course
+when's day of week for class
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class

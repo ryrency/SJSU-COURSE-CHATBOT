@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<outcome> = program outcome | po | outcome | result | benefit | gain | benefit  ;
+
+<course> = program | module | course | technology | class ;
+
+<of> = of | for | from ;
+
+<what> = what | what's | what is | what are;
+
+public <command> = [<what>] <outcome> <course> ;
+
+public <command> = [<what>] [<course>] <outcome> ;

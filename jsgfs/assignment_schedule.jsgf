@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<deadline> = deadline | due | due date | last day | last date | finishing date | target date | end date | time frame | schedule | submission deadline;
+
+<assignment> = assignment | homework;
+
+<when> = when | when is;
+
+public <command> = [<when>] <deadline> [of | for] <assignment>;
+public <command> = [<when>] <assignment> <deadline> ;

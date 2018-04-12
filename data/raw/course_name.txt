@@ -1,0 +1,432 @@
+program name
+program description
+program brief
+program explanation
+program summary
+program detail
+program title
+program name
+program about
+course name
+course description
+course brief
+course explanation
+course summary
+course detail
+course title
+course name
+course about
+class name
+class description
+class brief
+class explanation
+class summary
+class detail
+class title
+class name
+class about
+what program name
+what program description
+what program brief
+what program explanation
+what program summary
+what program detail
+what program title
+what program name
+what program about
+what course name
+what course description
+what course brief
+what course explanation
+what course summary
+what course detail
+what course title
+what course name
+what course about
+what class name
+what class description
+what class brief
+what class explanation
+what class summary
+what class detail
+what class title
+what class name
+what class about
+what's program name
+what's program description
+what's program brief
+what's program explanation
+what's program summary
+what's program detail
+what's program title
+what's program name
+what's program about
+what's course name
+what's course description
+what's course brief
+what's course explanation
+what's course summary
+what's course detail
+what's course title
+what's course name
+what's course about
+what's class name
+what's class description
+what's class brief
+what's class explanation
+what's class summary
+what's class detail
+what's class title
+what's class name
+what's class about
+what is program name
+what is program description
+what is program brief
+what is program explanation
+what is program summary
+what is program detail
+what is program title
+what is program name
+what is program about
+what is course name
+what is course description
+what is course brief
+what is course explanation
+what is course summary
+what is course detail
+what is course title
+what is course name
+what is course about
+what is class name
+what is class description
+what is class brief
+what is class explanation
+what is class summary
+what is class detail
+what is class title
+what is class name
+what is class about
+name of program
+name of course
+name of class
+name for program
+name for course
+name for class
+description of program
+description of course
+description of class
+description for program
+description for course
+description for class
+brief of program
+brief of course
+brief of class
+brief for program
+brief for course
+brief for class
+explanation of program
+explanation of course
+explanation of class
+explanation for program
+explanation for course
+explanation for class
+summary of program
+summary of course
+summary of class
+summary for program
+summary for course
+summary for class
+detail of program
+detail of course
+detail of class
+detail for program
+detail for course
+detail for class
+title of program
+title of course
+title of class
+title for program
+title for course
+title for class
+name of program
+name of course
+name of class
+name for program
+name for course
+name for class
+about of program
+about of course
+about of class
+about for program
+about for course
+about for class
+what name of program
+what name of course
+what name of class
+what name for program
+what name for course
+what name for class
+what description of program
+what description of course
+what description of class
+what description for program
+what description for course
+what description for class
+what brief of program
+what brief of course
+what brief of class
+what brief for program
+what brief for course
+what brief for class
+what explanation of program
+what explanation of course
+what explanation of class
+what explanation for program
+what explanation for course
+what explanation for class
+what summary of program
+what summary of course
+what summary of class
+what summary for program
+what summary for course
+what summary for class
+what detail of program
+what detail of course
+what detail of class
+what detail for program
+what detail for course
+what detail for class
+what title of program
+what title of course
+what title of class
+what title for program
+what title for course
+what title for class
+what name of program
+what name of course
+what name of class
+what name for program
+what name for course
+what name for class
+what about of program
+what about of course
+what about of class
+what about for program
+what about for course
+what about for class
+what's name of program
+what's name of course
+what's name of class
+what's name for program
+what's name for course
+what's name for class
+what's description of program
+what's description of course
+what's description of class
+what's description for program
+what's description for course
+what's description for class
+what's brief of program
+what's brief of course
+what's brief of class
+what's brief for program
+what's brief for course
+what's brief for class
+what's explanation of program
+what's explanation of course
+what's explanation of class
+what's explanation for program
+what's explanation for course
+what's explanation for class
+what's summary of program
+what's summary of course
+what's summary of class
+what's summary for program
+what's summary for course
+what's summary for class
+what's detail of program
+what's detail of course
+what's detail of class
+what's detail for program
+what's detail for course
+what's detail for class
+what's title of program
+what's title of course
+what's title of class
+what's title for program
+what's title for course
+what's title for class
+what's name of program
+what's name of course
+what's name of class
+what's name for program
+what's name for course
+what's name for class
+what's about of program
+what's about of course
+what's about of class
+what's about for program
+what's about for course
+what's about for class
+what is name of program
+what is name of course
+what is name of class
+what is name for program
+what is name for course
+what is name for class
+what is description of program
+what is description of course
+what is description of class
+what is description for program
+what is description for course
+what is description for class
+what is brief of program
+what is brief of course
+what is brief of class
+what is brief for program
+what is brief for course
+what is brief for class
+what is explanation of program
+what is explanation of course
+what is explanation of class
+what is explanation for program
+what is explanation for course
+what is explanation for class
+what is summary of program
+what is summary of course
+what is summary of class
+what is summary for program
+what is summary for course
+what is summary for class
+what is detail of program
+what is detail of course
+what is detail of class
+what is detail for program
+what is detail for course
+what is detail for class
+what is title of program
+what is title of course
+what is title of class
+what is title for program
+what is title for course
+what is title for class
+what is name of program
+what is name of course
+what is name of class
+what is name for program
+what is name for course
+what is name for class
+what is about of program
+what is about of course
+what is about of class
+what is about for program
+what is about for course
+what is about for class
+program name
+program description
+program brief
+program explanation
+program summary
+program detail
+program title
+program name
+program about
+course name
+course description
+course brief
+course explanation
+course summary
+course detail
+course title
+course name
+course about
+class name
+class description
+class brief
+class explanation
+class summary
+class detail
+class title
+class name
+class about
+what program name
+what program description
+what program brief
+what program explanation
+what program summary
+what program detail
+what program title
+what program name
+what program about
+what course name
+what course description
+what course brief
+what course explanation
+what course summary
+what course detail
+what course title
+what course name
+what course about
+what class name
+what class description
+what class brief
+what class explanation
+what class summary
+what class detail
+what class title
+what class name
+what class about
+what's program name
+what's program description
+what's program brief
+what's program explanation
+what's program summary
+what's program detail
+what's program title
+what's program name
+what's program about
+what's course name
+what's course description
+what's course brief
+what's course explanation
+what's course summary
+what's course detail
+what's course title
+what's course name
+what's course about
+what's class name
+what's class description
+what's class brief
+what's class explanation
+what's class summary
+what's class detail
+what's class title
+what's class name
+what's class about
+what is program name
+what is program description
+what is program brief
+what is program explanation
+what is program summary
+what is program detail
+what is program title
+what is program name
+what is program about
+what is course name
+what is course description
+what is course brief
+what is course explanation
+what is course summary
+what is course detail
+what is course title
+what is course name
+what is course about
+what is class name
+what is class description
+what is class brief
+what is class explanation
+what is class summary
+what is class detail
+what is class title
+what is class name
+what is class about

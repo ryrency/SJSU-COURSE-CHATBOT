@@ -1,0 +1,10 @@
+grammar slackbot;
+
+<thanks> = thank | thank you | thank a lot | thank a ton | greatful;
+<bye> = adios | bye | goodbye | see you | see ya | ttyl ;
+
+public <command> = <thanks> ;
+
+public <command> = <bye>;
+
+public <command> = <thanks> <bye>;

@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<prof> = professor | prof | instructor | teacher | lecturer | educator| adviser| faculty member | faculty | supervisor;
+
+<contact> = contact | reach out ;
+<how> = how | how do i;
+
+public <command> = [<how>] <contact> <prof> ;
+
+public <command> = [<how>] <prof> <contact> ;
+

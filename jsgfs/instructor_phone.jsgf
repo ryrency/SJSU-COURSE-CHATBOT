@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<prof> = professor | prof | instructor | teacher | lecturer | educator| adviser| faculty member | faculty | supervisor | teaching;
+
+<phone> = phone | cell | mobile;
+<number> = number | no;
+
+<of> = of ;
+<what> = what | what's | what is;
+
+public <command> = [<what>] <phone> [<number>] <of> <prof>;
+
+public <command> =  [<what>] <prof> <phone> [<number>];

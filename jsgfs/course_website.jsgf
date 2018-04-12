@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | course | class ;
+
+<name> = web link | site | web-link | url | website | website url;
+
+<of> = of | for ;
+
+<what> = what | what's | what is;
+
+public <command> = [<what>] <course> <name> ;
+
+public <command> = [<what>] <name> <of> <course> ;

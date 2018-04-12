@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<university> = university | school | course | program ;
+
+<policy> = policy | protocol | guideline | term and condition | rule;
+
+<of> = of | for ;
+
+<what> = what | what's | what is | what are;
+
+public <command> = [<what>] <policy> [<of>] <university> ;
+
+public <command> = [<what>] <university> <policy> ;

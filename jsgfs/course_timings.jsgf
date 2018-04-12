@@ -1,0 +1,18 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | course | class;
+
+<timings> = timing | hour | time | start time | end time | start | end | day | day of week ;
+
+<of> = of | for ;
+
+<what_when> = what | what's | what is | what are | when | when is | when's;
+<when> = when | when is | when's;
+
+public <command> = [<what_when>] <course> <timings> ;
+public <command> = [<when>] <course>;
+public <command> = [<what_when>] <timings> <of> <course> ;
+public <command> = [<when>] <course>;
+public <command> = [<when>] <course>;

@@ -1,0 +1,8 @@
+grammar slackbot;
+
+<hi> = hi | hello | what's up  | greeting | hola | hey | wassup;
+<how> = how are you | how r ya | hows u | what's up | whatsup;
+
+public <command> = <hi> ;
+
+public <command> = <hi> <how>;

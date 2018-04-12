@@ -1,0 +1,1158 @@
+location program
+location course
+location class
+location of program
+location of course
+location of class
+physical location program
+physical location course
+physical location class
+physical location of program
+physical location of course
+physical location of class
+room_no program
+room_no course
+room_no class
+room_no of program
+room_no of course
+room_no of class
+room number program
+room number course
+room number class
+room number of program
+room number of course
+room number of class
+room no program
+room no course
+room no class
+room no of program
+room no of course
+room no of class
+building program
+building course
+building class
+building of program
+building of course
+building of class
+whereabout program
+whereabout course
+whereabout class
+whereabout of program
+whereabout of course
+whereabout of class
+classroom program
+classroom course
+classroom class
+classroom of program
+classroom of course
+classroom of class
+what location program
+what location course
+what location class
+what location of program
+what location of course
+what location of class
+what physical location program
+what physical location course
+what physical location class
+what physical location of program
+what physical location of course
+what physical location of class
+what room_no program
+what room_no course
+what room_no class
+what room_no of program
+what room_no of course
+what room_no of class
+what room number program
+what room number course
+what room number class
+what room number of program
+what room number of course
+what room number of class
+what room no program
+what room no course
+what room no class
+what room no of program
+what room no of course
+what room no of class
+what building program
+what building course
+what building class
+what building of program
+what building of course
+what building of class
+what whereabout program
+what whereabout course
+what whereabout class
+what whereabout of program
+what whereabout of course
+what whereabout of class
+what classroom program
+what classroom course
+what classroom class
+what classroom of program
+what classroom of course
+what classroom of class
+what is location program
+what is location course
+what is location class
+what is location of program
+what is location of course
+what is location of class
+what is physical location program
+what is physical location course
+what is physical location class
+what is physical location of program
+what is physical location of course
+what is physical location of class
+what is room_no program
+what is room_no course
+what is room_no class
+what is room_no of program
+what is room_no of course
+what is room_no of class
+what is room number program
+what is room number course
+what is room number class
+what is room number of program
+what is room number of course
+what is room number of class
+what is room no program
+what is room no course
+what is room no class
+what is room no of program
+what is room no of course
+what is room no of class
+what is building program
+what is building course
+what is building class
+what is building of program
+what is building of course
+what is building of class
+what is whereabout program
+what is whereabout course
+what is whereabout class
+what is whereabout of program
+what is whereabout of course
+what is whereabout of class
+what is classroom program
+what is classroom course
+what is classroom class
+what is classroom of program
+what is classroom of course
+what is classroom of class
+what's location program
+what's location course
+what's location class
+what's location of program
+what's location of course
+what's location of class
+what's physical location program
+what's physical location course
+what's physical location class
+what's physical location of program
+what's physical location of course
+what's physical location of class
+what's room_no program
+what's room_no course
+what's room_no class
+what's room_no of program
+what's room_no of course
+what's room_no of class
+what's room number program
+what's room number course
+what's room number class
+what's room number of program
+what's room number of course
+what's room number of class
+what's room no program
+what's room no course
+what's room no class
+what's room no of program
+what's room no of course
+what's room no of class
+what's building program
+what's building course
+what's building class
+what's building of program
+what's building of course
+what's building of class
+what's whereabout program
+what's whereabout course
+what's whereabout class
+what's whereabout of program
+what's whereabout of course
+what's whereabout of class
+what's classroom program
+what's classroom course
+what's classroom class
+what's classroom of program
+what's classroom of course
+what's classroom of class
+location program
+location course
+location class
+location of program
+location of course
+location of class
+physical location program
+physical location course
+physical location class
+physical location of program
+physical location of course
+physical location of class
+room_no program
+room_no course
+room_no class
+room_no of program
+room_no of course
+room_no of class
+room number program
+room number course
+room number class
+room number of program
+room number of course
+room number of class
+room no program
+room no course
+room no class
+room no of program
+room no of course
+room no of class
+building program
+building course
+building class
+building of program
+building of course
+building of class
+whereabout program
+whereabout course
+whereabout class
+whereabout of program
+whereabout of course
+whereabout of class
+classroom program
+classroom course
+classroom class
+classroom of program
+classroom of course
+classroom of class
+what location program
+what location course
+what location class
+what location of program
+what location of course
+what location of class
+what physical location program
+what physical location course
+what physical location class
+what physical location of program
+what physical location of course
+what physical location of class
+what room_no program
+what room_no course
+what room_no class
+what room_no of program
+what room_no of course
+what room_no of class
+what room number program
+what room number course
+what room number class
+what room number of program
+what room number of course
+what room number of class
+what room no program
+what room no course
+what room no class
+what room no of program
+what room no of course
+what room no of class
+what building program
+what building course
+what building class
+what building of program
+what building of course
+what building of class
+what whereabout program
+what whereabout course
+what whereabout class
+what whereabout of program
+what whereabout of course
+what whereabout of class
+what classroom program
+what classroom course
+what classroom class
+what classroom of program
+what classroom of course
+what classroom of class
+what is location program
+what is location course
+what is location class
+what is location of program
+what is location of course
+what is location of class
+what is physical location program
+what is physical location course
+what is physical location class
+what is physical location of program
+what is physical location of course
+what is physical location of class
+what is room_no program
+what is room_no course
+what is room_no class
+what is room_no of program
+what is room_no of course
+what is room_no of class
+what is room number program
+what is room number course
+what is room number class
+what is room number of program
+what is room number of course
+what is room number of class
+what is room no program
+what is room no course
+what is room no class
+what is room no of program
+what is room no of course
+what is room no of class
+what is building program
+what is building course
+what is building class
+what is building of program
+what is building of course
+what is building of class
+what is whereabout program
+what is whereabout course
+what is whereabout class
+what is whereabout of program
+what is whereabout of course
+what is whereabout of class
+what is classroom program
+what is classroom course
+what is classroom class
+what is classroom of program
+what is classroom of course
+what is classroom of class
+what's location program
+what's location course
+what's location class
+what's location of program
+what's location of course
+what's location of class
+what's physical location program
+what's physical location course
+what's physical location class
+what's physical location of program
+what's physical location of course
+what's physical location of class
+what's room_no program
+what's room_no course
+what's room_no class
+what's room_no of program
+what's room_no of course
+what's room_no of class
+what's room number program
+what's room number course
+what's room number class
+what's room number of program
+what's room number of course
+what's room number of class
+what's room no program
+what's room no course
+what's room no class
+what's room no of program
+what's room no of course
+what's room no of class
+what's building program
+what's building course
+what's building class
+what's building of program
+what's building of course
+what's building of class
+what's whereabout program
+what's whereabout course
+what's whereabout class
+what's whereabout of program
+what's whereabout of course
+what's whereabout of class
+what's classroom program
+what's classroom course
+what's classroom class
+what's classroom of program
+what's classroom of course
+what's classroom of class
+location program
+location course
+location class
+location of program
+location of course
+location of class
+physical location program
+physical location course
+physical location class
+physical location of program
+physical location of course
+physical location of class
+room_no program
+room_no course
+room_no class
+room_no of program
+room_no of course
+room_no of class
+room number program
+room number course
+room number class
+room number of program
+room number of course
+room number of class
+room no program
+room no course
+room no class
+room no of program
+room no of course
+room no of class
+building program
+building course
+building class
+building of program
+building of course
+building of class
+whereabout program
+whereabout course
+whereabout class
+whereabout of program
+whereabout of course
+whereabout of class
+classroom program
+classroom course
+classroom class
+classroom of program
+classroom of course
+classroom of class
+what location program
+what location course
+what location class
+what location of program
+what location of course
+what location of class
+what physical location program
+what physical location course
+what physical location class
+what physical location of program
+what physical location of course
+what physical location of class
+what room_no program
+what room_no course
+what room_no class
+what room_no of program
+what room_no of course
+what room_no of class
+what room number program
+what room number course
+what room number class
+what room number of program
+what room number of course
+what room number of class
+what room no program
+what room no course
+what room no class
+what room no of program
+what room no of course
+what room no of class
+what building program
+what building course
+what building class
+what building of program
+what building of course
+what building of class
+what whereabout program
+what whereabout course
+what whereabout class
+what whereabout of program
+what whereabout of course
+what whereabout of class
+what classroom program
+what classroom course
+what classroom class
+what classroom of program
+what classroom of course
+what classroom of class
+what is location program
+what is location course
+what is location class
+what is location of program
+what is location of course
+what is location of class
+what is physical location program
+what is physical location course
+what is physical location class
+what is physical location of program
+what is physical location of course
+what is physical location of class
+what is room_no program
+what is room_no course
+what is room_no class
+what is room_no of program
+what is room_no of course
+what is room_no of class
+what is room number program
+what is room number course
+what is room number class
+what is room number of program
+what is room number of course
+what is room number of class
+what is room no program
+what is room no course
+what is room no class
+what is room no of program
+what is room no of course
+what is room no of class
+what is building program
+what is building course
+what is building class
+what is building of program
+what is building of course
+what is building of class
+what is whereabout program
+what is whereabout course
+what is whereabout class
+what is whereabout of program
+what is whereabout of course
+what is whereabout of class
+what is classroom program
+what is classroom course
+what is classroom class
+what is classroom of program
+what is classroom of course
+what is classroom of class
+what's location program
+what's location course
+what's location class
+what's location of program
+what's location of course
+what's location of class
+what's physical location program
+what's physical location course
+what's physical location class
+what's physical location of program
+what's physical location of course
+what's physical location of class
+what's room_no program
+what's room_no course
+what's room_no class
+what's room_no of program
+what's room_no of course
+what's room_no of class
+what's room number program
+what's room number course
+what's room number class
+what's room number of program
+what's room number of course
+what's room number of class
+what's room no program
+what's room no course
+what's room no class
+what's room no of program
+what's room no of course
+what's room no of class
+what's building program
+what's building course
+what's building class
+what's building of program
+what's building of course
+what's building of class
+what's whereabout program
+what's whereabout course
+what's whereabout class
+what's whereabout of program
+what's whereabout of course
+what's whereabout of class
+what's classroom program
+what's classroom course
+what's classroom class
+what's classroom of program
+what's classroom of course
+what's classroom of class
+program location
+program physical location
+program room_no
+program room number
+program room no
+program building
+program whereabout
+program classroom
+course location
+course physical location
+course room_no
+course room number
+course room no
+course building
+course whereabout
+course classroom
+class location
+class physical location
+class room_no
+class room number
+class room no
+class building
+class whereabout
+class classroom
+what program location
+what program physical location
+what program room_no
+what program room number
+what program room no
+what program building
+what program whereabout
+what program classroom
+what course location
+what course physical location
+what course room_no
+what course room number
+what course room no
+what course building
+what course whereabout
+what course classroom
+what class location
+what class physical location
+what class room_no
+what class room number
+what class room no
+what class building
+what class whereabout
+what class classroom
+what is program location
+what is program physical location
+what is program room_no
+what is program room number
+what is program room no
+what is program building
+what is program whereabout
+what is program classroom
+what is course location
+what is course physical location
+what is course room_no
+what is course room number
+what is course room no
+what is course building
+what is course whereabout
+what is course classroom
+what is class location
+what is class physical location
+what is class room_no
+what is class room number
+what is class room no
+what is class building
+what is class whereabout
+what is class classroom
+what's program location
+what's program physical location
+what's program room_no
+what's program room number
+what's program room no
+what's program building
+what's program whereabout
+what's program classroom
+what's course location
+what's course physical location
+what's course room_no
+what's course room number
+what's course room no
+what's course building
+what's course whereabout
+what's course classroom
+what's class location
+what's class physical location
+what's class room_no
+what's class room number
+what's class room no
+what's class building
+what's class whereabout
+what's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom
+where program
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabout
+where program classroom
+where course
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabout
+where course classroom
+where class
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabout
+where class classroom
+where is program
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabout
+where is program classroom
+where is course
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabout
+where is course classroom
+where is class
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabout
+where is class classroom
+where's program
+where's program location
+where's program physical location
+where's program room_no
+where's program room number
+where's program room no
+where's program building
+where's program whereabout
+where's program classroom
+where's course
+where's course location
+where's course physical location
+where's course room_no
+where's course room number
+where's course room no
+where's course building
+where's course whereabout
+where's course classroom
+where's class
+where's class location
+where's class physical location
+where's class room_no
+where's class room number
+where's class room no
+where's class building
+where's class whereabout
+where's class classroom

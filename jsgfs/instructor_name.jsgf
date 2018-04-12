@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<prof> = professor | prof | instructor | teacher | lecturer | educator| adviser| faculty member | faculty | supervisor | teaching;
+
+<name> = name ;
+
+<of> = of ;
+<what> = what | what's | what is;
+<who> = who | who's | who is;
+
+public <command> = [<what>] <name> <of> <prof>;
+public <command> =  [<what>] <prof> <name>;
+public <command> =  [<who>] <prof>;

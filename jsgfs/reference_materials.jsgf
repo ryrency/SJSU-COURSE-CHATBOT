@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | course | class ;
+
+<books> = book | material  | reference material | study | study material | study guide | guide | help | help guide | read  ;
+
+<of> = of | for ;
+
+<what> = what | what's | what is | what are;
+
+public <command> = [<what>] <books> [<of>] <course> ;
+
+public <command> = [<what>] <course> <books> ;

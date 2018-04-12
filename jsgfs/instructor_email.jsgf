@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<prof> = professor | prof | instructor | teacher | lecturer | educator| adviser| faculty member | faculty | supervisor | teaching;
+
+<email> =  email | e-mail | mail_id |mail id | email_id | email id | email-id | email-address | email address | email_address;
+
+<of> = of ;
+<what> = what | what's | what is;
+
+public <command> = [<what>] <email> <of> <prof>;
+
+public <command> =  [<what>] <prof> <email>;
